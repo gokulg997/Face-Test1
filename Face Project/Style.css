@@ -1,0 +1,177 @@
+.container {
+    background-color:rgb(238, 238, 238);
+}
+
+.header {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-left: 2%;
+    
+}
+
+.head {
+    color: orange;
+    padding-left: 10%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lead {
+    font-family:sans-serif;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding-left: 30%;
+}
+
+.div1 {
+    text-align: center;
+}
+
+.contain {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 800;
+    background-color: black;
+    color: white;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+#d1 {
+    padding-left: 30%;
+}
+
+#moto {
+    padding-left: 30%;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.contain1 {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    padding: 8%;
+}
+
+.contain2 {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    padding: 8%;
+    background-color: black;
+    color: white;
+}
+
+.div1:hover {
+    background-color: orange;
+    color: white;
+}
+
+.column1 {
+    background-color: white;
+}
+.description{
+    width: 60%;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section1 {
+    background-color: white;
+}
+.Port{
+background-color: black;
+color: white;
+text-align: center;
+padding: 5%;
+}
+hr{
+width: 30%;
+height: 10px solid;
+}
+.icon{
+display: flex;
+flex-flow: row wrap;
+justify-content: space-between;
+padding-top: 5%;
+
+}
+.div2{
+background-color: white;
+color: black;
+width: 20%;
+border-radius: 5%;
+}
+
+.sym1{
+width: 20%;
+padding-top: 5%;
+padding-left: 40%;
+}
+.skill{
+display: flex;
+flex-flow: row wrap;
+justify-content:space-around;
+font-size: small;
+padding-bottom: 5%;
+
+}
+.section3a{
+width: 30%;
+padding-bottom: 7%;
+}
+
+.light{
+width: 90%;
+height: 3%;
+background-color: grey;
+border-radius: 2%;
+}
+
+
+.dark{
+width: 60%;
+height: 100%;
+background-color: orange;
+border-radius: 2%;
+}
+.contact{
+background-color: black;
+color: white;
+padding-bottom: 5%;
+}
+.contact1{
+width: 50%;
+padding-left: 25%;
+text-align: center;
+padding-top: 2%;
+}
+input{
+width: 50%;
+height: 50%;
+}
+#btn{
+margin-left: 0%;
+background-color: orangered;
+color: white;
+border: none;
+}
+.sk{
+text-align: center;
+padding-top: 1%;
+}
+.tech,.lan{
+text-align: center;
+}
+#a2{
+font-size: small;
+}
+a{
+text-decoration: none;
+color: black;
+}
