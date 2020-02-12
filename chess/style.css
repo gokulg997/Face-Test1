@@ -1,0 +1,23 @@
+.border{
+    width: 560px;
+    height: 560px;
+    
+    border: 5px solid brown;
+    margin-left: 30%;
+}
+.one,.two,.three,.four,.five,.six,.seven,.eight{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+}
+.c1,.c3,.c5,.c7{
+background-color: burlywood;
+width: 70px;
+    height: 70px;
+
+
+}
+.c2,.c4,.c6,.c8{
+    background-color: wheat;
+    width: 70px;
+    height: 70px;
+}
